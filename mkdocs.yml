@@ -4,6 +4,7 @@ theme: material
 
 pages:
 - Introduction: index.md
+- Installation: installation.md
 - Basic Examples: 
   - Introduction: basic-example-introduction.md
   - Immediate Processing: basic-example-immediate-processing.md
